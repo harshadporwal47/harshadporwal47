@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshadporwal47
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning VueJS, NuxtJS, AdonisJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on somethig out of the box
 - 📫 How to reach me harshad.porwal47@gmail.com
 
